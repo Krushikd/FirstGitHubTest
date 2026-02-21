@@ -1,0 +1,130 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\WDExpress\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (K5CustomLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Il9_ Validate_datasettype_With_NamedRereference.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_ validate_datasettype_with_namedrereference.cxx(146): warning C4297: 'Il9_validate_datasettype_with_namedreferences': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_ validate_datasettype_with_namedrereference.cxx(146): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_CheckMandatoryParticipantsAttached.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_checkmandatoryparticipantsattached.cxx(65): warning C4297: 'Il9_CheckMandatoryParticipantsAttached': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_checkmandatoryparticipantsattached.cxx(65): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_CheckObjectProperties.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_checkobjectproperties.cxx(165): warning C4297: 'Il9_CheckObjectProperties': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_checkobjectproperties.cxx(165): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_Generichandlers.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+  Il9_SignoffComments.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_signoffcomments.cxx(135): warning C4297: 'Il9_SignoffComments': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_signoffcomments.cxx(135): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_ValidateAssemblyStatus.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validateassemblystatus.cxx(112): warning C4297: 'Il9_ValidateAssemblyStatus': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validateassemblystatus.cxx(112): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_ValidateTargetAttachment.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetattachment.cxx(52): warning C4297: 'Il9_ValidateTargetAttachment': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetattachment.cxx(52): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_ValidateTargetProjects.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetprojects.cxx(67): warning C4297: 'Il9_ValidateTargetProjects': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetprojects.cxx(67): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_ValidateTargetWithChildRev.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetwithchildrev.cxx(73): warning C4297: 'Il9_ValidateTargetWithChildRev': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetargetwithchildrev.cxx(73): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_ValidateTranslatedObject.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetranslatedobject.cxx(104): warning C4297: 'Il9_ValidateTranslatedObject': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validatetranslatedobject.cxx(104): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_Validate_NoDuplicateApprover.cpp
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_noduplicateapprover.cpp(163): warning C4297: 'Il9_Validate_NoDuplicateApprover': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_noduplicateapprover.cpp(163): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9__Get_Participant.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9__get_participant.cxx(117): warning C4297: 'Il9__Get_Participant': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9__get_participant.cxx(117): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_Validate_max_length.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_max_length.cxx(138): warning C4297: 'Il9_Validate_max_length': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_max_length.cxx(138): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  Il9_Validate_Classified_TargetObject.cxx
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(112): warning C4005: 'SECONDARYOBJECTTYPE': macro redefinition
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(80): note: see previous definition of 'SECONDARYOBJECTTYPE'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_generichandlers.hxx(122): warning C4005: 'STATUS_PENDING': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winnt.h(2454): note: see previous definition of 'STATUS_PENDING'
+c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_classified_targetobject.cxx(60): warning C4297: 'Il9_Validate_Classified_TargetObject': function assumed not to throw an exception but does
+  c:\users\12690\downloads\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2) 1\il9_generichandlers 2 (2)\k5customlib\k5customlib\il9_validate_classified_targetobject.cxx(60): note: __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+     Creating library C:\Users\12690\Downloads\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2)\K5CustomLib\x64\Release\Il9_Generichandlers.lib and object C:\Users\12690\Downloads\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2)\K5CustomLib\x64\Release\Il9_Generichandlers.exp
+  Generating code
+  All 418 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  K5CustomLib.vcxproj -> C:\Users\12690\Downloads\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2) 1\Il9_Generichandlers 2 (2)\K5CustomLib\x64\Release\Il9_Generichandlers.dll
