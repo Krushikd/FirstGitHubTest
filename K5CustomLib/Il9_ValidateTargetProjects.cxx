@@ -56,7 +56,7 @@ EPM_decision_t Il9_ValidateTargetProjects(EPM_rule_message_t msg)
 			else
 			{
 				// Log success message
-				TC_write_syslog("\n comments are added. Task can proceed.\n");
+				TC_write_syslog("\n comments are added fo. Task can proceed.\n");
 			}
 
 		}
